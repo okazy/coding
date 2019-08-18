@@ -1,3 +1,3 @@
-N=int(input())
-A=int(input())
-print(N**2-A)
+n=int(input())
+a=int(input())
+print(n*n-a)
